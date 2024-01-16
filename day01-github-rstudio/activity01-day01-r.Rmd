@@ -7,6 +7,8 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+
 ## Introduction
 
 This will likely be the only `.Rmd` file that I provide to you as all other activities will have you follow directions in the day-specific folder's `README` and type your own "report" in an Rmarkdown document that you create.
